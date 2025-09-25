@@ -9,7 +9,7 @@ import traceback
 
 # ------------------ CONFIG & DATA ------------------
 
-TOKEN = os.environ.get('MTQyMDU5NjY4NzQ3MDE5ODc4NA.Glflet.tQQYeCExuHMOjcixqFtpowE3m9sz_Ki_P8Tq_A') DATA_FILE = 'bot_data.json'
+TOKEN = os.environ.get('DISCORD_BOT_TOKEN') DATA_FILE = 'bot_data.json'
 
 # ------------------ HELPER FUNCTIONS ------------------
 
